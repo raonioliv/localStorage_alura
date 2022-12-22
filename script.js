@@ -57,17 +57,3 @@ function updateItem(item){
 
 
 
-// function renderItems(name, quantity) {
-    
-//     items.forEach((element, index, array) => {
-//         const newItem = document.createElement("li")
-//         newItem.classList.add("item")
-
-//         const quantityItem = document.createElement("strong");
-//         quantityItem.innerHTML = element.quantity;
-
-//         newItem.appendChild(quantityItem);
-//         newItem.innerHTML += element.name;
-//         console.log(newItem)
-//     })
-// }
